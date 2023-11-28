@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Storage data backend
 
 This repository contains code of a learning project called: "Storage data".
